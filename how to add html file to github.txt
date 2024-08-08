@@ -1,0 +1,10 @@
+how to push html file to github
+- open your folder
+- open in git bash
+commite:
+- git init
+- git add *
+- git commit -m "command"
+- git branch -M main
+- git remote add origin your-link-repository
+- git push -u origin main
